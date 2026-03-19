@@ -1,1 +1,3 @@
-# lab-colaboracao-github
+# Projeto de Colaboração
+
+Este é um prjeto de exemplo para pratica.
