@@ -1,3 +1,3 @@
 # Projeto de Colaboração
 
-Este é um prjeto de exemplo para pratica.
+Este é um projeto de exemplo para pratica.
